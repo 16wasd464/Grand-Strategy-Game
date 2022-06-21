@@ -1,0 +1,10 @@
+#map{
+display: inline-block;
+}
+#infobar{
+display: inline-block;
+}
+#ui_mil_label{
+font-weight: bold;
+text-decoration-line: underline;
+}
